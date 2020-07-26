@@ -21,7 +21,7 @@ import android.text.TextUtils;
 import android.util.SparseArray;
 
 /**
- * Information about the current LineageOS build, extracted from system properties.
+ * Information about the current GlitchO̔̔҉̛͞S͐͗ build, extracted from system properties.
  */
 public class Build {
     /** Value used for when a build property is unknown. */
